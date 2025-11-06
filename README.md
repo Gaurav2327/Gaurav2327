@@ -22,3 +22,12 @@ I'm an enthusiastic Cloud Engineer from India, I strive to grow every day 💪
 ## ⚡Stats
 
 ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaurav2327&show_icons=true&theme=tokyonight&hide_border=true)
+
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gaurav2327&margin-w=10&margin-h=10&no-bg=true&no-frame=true" alt="Trophies" />
+  </a>
+</p>
